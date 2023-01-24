@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **SaraCarreras/SaraCarreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Sara, a web Developer with a background of Psychology🧠
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraCarreras&layout=compact&theme=solarized-light)](https://github.com/SaraCarreras/github-readme-stats)
+
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaraCarreras&repo=cornerFilmsRedux-final&theme=nightowl)
